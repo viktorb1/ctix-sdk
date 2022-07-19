@@ -1,7 +1,7 @@
 Welcome to Lumache's documentation!
 ===================================
 
-.. codeblock:: python
+.. code-block:: python
 
    from integration.ctix import CTIX
 
