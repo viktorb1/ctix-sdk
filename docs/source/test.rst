@@ -1,4 +1,4 @@
-::
+..codeblock:: python
    from integration.ctix import CTIX
 
    ctix = CTIX("http://localhost:8000", "", "")
