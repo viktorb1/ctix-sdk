@@ -1,6 +1,5 @@
 Welcome to Lumache's documentation!
 ===================================
-
 .. code-block:: python
 
    from integration.ctix import CTIX
